@@ -97,8 +97,8 @@
       {
         "title":"Music App",
         "category":"Music app using React Js",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"jtunes.png",
+        "url":"https://jtunes.surge.sh/"
       },
       {
         "title":"Covid_19 Tracker",
@@ -129,62 +129,38 @@
       {
         "title":"Cad Customization coach",
         "category":"Membership website",
-        "image":"canadian-wanderlust.jpg",
+        "image":"cad.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
         "title":"Wastetocrafts",
-        "category":"Ecommerce site",
-        "image":"fury-fighting-gear.jpg",
+        "category":"Ecommerce ",
+        "image":"craft.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Church website",
-        "category":"Static site",
-        "image":"original-thai-food.jpg",
+        "title":"Digital Agency site",
+        "category":"Business website",
+        "image":"Screenshot.png",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Church website",
+        "category":"",
+        "image":"church.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Lifestyle Blog",
+        "category":"Blog",
+        "image":"blog.png",
+        "url":"http://www.smirkspace.com"
       },
       {
         "title":"Animal welfare site",
         "category":"A NGO project",
-        "image":"resume-website.jpg",
+        "image":"spca.png",
         "url":"https://spcakrishnagiri.org/"
-      },
-      {
-        "title":"",
-        "category":"A React based prtfolio.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Music App",
-        "category":"Music app using React Js",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Covid_19 Tracker",
-        "category":"Built with React and Disease.sh API",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Photo-gallery with React and firebase",
-        "category":"BUilt with React and firebase ",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Job site",
-        "category":"A React based job search site using GitHub API",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"My Portfolio",
-        "category":"A React based prtfolio.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },
