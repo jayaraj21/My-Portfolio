@@ -199,10 +199,10 @@ ul#nav li.current a { color: #b9b9b9; }
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: rgb(199, 199, 199);
-   margin-bottom: 12px;
+   margin-bottom: 22px;
 }
 #about p {
-   line-height: 13px;
+   line-height: 1px;
    color: #fcfcfc;
 }
 #about .profile-pic {

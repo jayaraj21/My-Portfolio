@@ -47,20 +47,7 @@
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
+    
     "skills":[
       {
         "name":"Git",
@@ -122,7 +109,7 @@
         "title":"Digital Agency site",
         "category":"Business website",
         "image":"Screenshot.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://creativeo.in/              "
       },
       {
         "title":"Church website",
@@ -147,11 +134,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text":"",
         "user":"Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text":"!",
         "user":"Steve Wozniak... impersonator"
       }
     ]
