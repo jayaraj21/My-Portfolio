@@ -20,13 +20,13 @@
   
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jayaraj-vishwanathan-925aa5171/",
         "className":"fa fa-linkedin"
       },
       
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/jayaraj21",
         "className":"fa fa-github"
       }
     ]
@@ -65,30 +65,6 @@
       {
         "name":"Git",
         "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
@@ -97,46 +73,50 @@
       {
         "title":"Music App",
         "category":"Music app using React Js",
-        "image":"jtunes.png",
+        "image":"jay.png",
         "url":"https://jtunes.surge.sh/"
       },
-      {
-        "title":"Covid_19 Tracker",
-        "category":"Built with React and Disease.sh API",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
+      
       {
         "title":"Photo-gallery with React and firebase",
-        "category":"BUilt with React and firebase ",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "category":"Built with React and firebase ",
+        "image":"coolgram.png",
+        "url":"https://coolgram.netlify.app/"
       },
       {
         "title":"Job site",
         "category":"A React based job search site using GitHub API",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"jobs.png",
+        "url":"http://jobsapp.surge.sh/"
+      },
+    
+      {
+        "title":"Restaurant Finder",
+        "category":"A React based retaurant finder site using Yelp API",
+        "image":"rest.png",
+        "url":"http://jaysfoods.surge.sh/"
       },
       {
         "title":"My Portfolio",
-        "category":"A React based prtfolio.",
-        "image":"smirkspace.jpg",
+        "category":"Prtfolio built on React",
+        "image":"portfolio.png",
         "url":"http://www.smirkspace.com"
       }
+
+      
     ],
       "works": [
       {
         "title":"Cad Customization coach",
         "category":"Membership website",
         "image":"cad.png",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"http://www.cadcustomizationcoach.com/"
       },
       {
         "title":"Wastetocrafts",
         "category":"Ecommerce ",
         "image":"craft.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://wastetocrafts.com/"
       },
       {
         "title":"Digital Agency site",
@@ -148,13 +128,13 @@
         "title":"Church website",
         "category":"",
         "image":"church.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://hosannamethodistchurch.in/"
       },
       {
         "title":"Lifestyle Blog",
         "category":"Blog",
         "image":"blog.png",
-        "url":"http://www.smirkspace.com"
+        "url":"https://hattibrew.com/"
       },
       {
         "title":"Animal welfare site",

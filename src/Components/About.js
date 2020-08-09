@@ -27,15 +27,15 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                
-						   <span>Mobile Number:{phone}</span><br />
-                     <span>Email: {email}</span>
+						  <p>Mobile 📱: {phone}</p>
+                     <p>Email 📧: {email}</p>
 					   
                </div>
-               <div className="columns download">
+               {/* <div className="columns download">
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
-               </div>
+               </div> */}
             </div>
          </div>
      

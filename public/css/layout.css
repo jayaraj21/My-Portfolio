@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #b9b9b9; }
 
 
 /* ------------------------------------------------------------------ */
@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background:#0A4E97;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -198,12 +198,12 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: rgb(199, 199, 199);
    margin-bottom: 12px;
 }
 #about p {
-   line-height: 30px;
-   color: #7A7A7A;
+   line-height: 13px;
+   color: #fcfcfc;
 }
 #about .profile-pic {
    position: relative;
@@ -422,12 +422,12 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 25px/29px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #525252;
 }
 
 /* Portfolio Content */
